@@ -1,5 +1,9 @@
 # Java Selenium Demo Framework
 
+**Sarath Panguluri** | Test Automation Engineer | Java, Selenium WebDriver, TestNG & Maven
+
+Part of Sarath Panguluri's public software test automation portfolio. This example demonstrates UI automation framework structure, maintainable page objects, reporting and CI configuration.
+
 A compact, production-style UI automation framework for the public SauceDemo site.
 
 ## Included
